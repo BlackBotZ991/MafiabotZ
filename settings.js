@@ -21,18 +21,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['916909137213']
-global.premium = ['916909137213']
-global.ownernomer = '916909137213'
+global.owner = ['6282143349069,6285784551197']
+global.premium = ['6282143349069']
+global.ownernomer = '6282143349069,6285784551197'
 global.ownername = '🦄Dream Guy Xeon'
-global.botname = 'Cheems Bot MD V2'
+global.botname = 'Mafia BotZ'
 global.footer = 'Xeon Bot Inc.'
-global.ig = 'https://github.com/DGXeon'
+global.ig = 'https://github.com/BlackBotZ991'
 global.region = 'India, NorthEast, Mizoram'
-global.sc = 'https://github.com/DGXeon/CheemsBot-MD2'
-global.myweb = 'https://youtu.be/imFIX-Wrt3s'
-global.packname = 'Cheems Bot'
-global.author = '🦄Dream Guy Xeon'
+global.sc = 'https://github.com/BlackBotZ991'
+global.myweb = 'https://youtube.com/channel/UCWN89V_QtNnav2UFF8epaug'
+global.packname = 'Mafia BotZ'
+global.author = 'MafiaBotZ'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
