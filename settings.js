@@ -21,10 +21,10 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['6282143349069,6285784551197']
+global.owner = ['6282143349069']
 global.premium = ['6282143349069']
-global.ownernomer = '6282143349069,6285784551197'
-global.ownername = '🦄Dream Guy Xeon'
+global.ownernomer = '6282143349069'
+global.ownername = 'Black Hosting'
 global.botname = 'Mafia BotZ'
 global.footer = 'Xeon Bot Inc.'
 global.ig = 'https://github.com/BlackBotZ991'
